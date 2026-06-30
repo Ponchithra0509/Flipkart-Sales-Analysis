@@ -17,22 +17,22 @@ The objective is to transform raw business data into interactive dashboards that
 
 ## Executive Dashboard
 
-![Executive Dashboard](Executive%20Dashboard.png)
+![Executive Dashboard](Screenshots/Executive_Dashboard.png)
 
 ---
 
 ## Sales Analysis
 
-![Sales Analysis](Sales%20Analysis.png)
+![Sales Analysis](Screenshots/Sales_Analysis.png)
 
 ---
 
 ## Product & Brand Performance
 
-![Product & Brand Performance](product%20%26%20Brand%20Performance.png)
+![Product & Brand Performance](Screenshots/Product_Brand_Performance.png)
 
 ---
 
 ## Interactive Insights
 
-![Interactive Insights](Interactive%20Insights.png)
+![Interactive Insights](Screenshots/Interactive_Insights.png)
